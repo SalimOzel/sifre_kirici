@@ -6,7 +6,7 @@ Bu proje Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendsiliği Böl
 
 ## Oyun Videosu 
 
-<a href="https://youtu.be/Bf8Vm0Cv24M](https://www.youtube.com/shorts/Hl_PpYmOuow">Youtube Video Linki</a>
+<a href="https://www.youtube.com/shorts/Hl_PpYmOuow">Youtube Video Linki</a>
 
   
 ## Amaç ve Kapsam
